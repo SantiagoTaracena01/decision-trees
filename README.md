@@ -22,9 +22,6 @@ Un árbol de decisión consta de nodos que representan diferentes condiciones o 
 ## 🛠 Implementaciones de los árboles de decisión
 
 - scikit-learn: Una de las bibliotecas de aprendizaje automático más utilizadas en Python, que incluye la implementación del algoritmo de árboles de decisión. 🐍
-- Weka: Una suite de software de minería de datos que incluye la implementación de árboles de decisión. 🤖
-- R: Un lenguaje de programación estadística que incluye numerosas bibliotecas para el análisis de datos, incluyendo la implementación de árboles de decisión. 📊
-- Matlab: Un software de análisis numérico que incluye la implementación de árboles de decisión. 🧮
 
 ## 🎯 Uso de los árboles de decisión
 
